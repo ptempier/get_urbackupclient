@@ -8,7 +8,7 @@ BASE="/var/urbackup/"
 DATE="$(date +"%Y-%m-%d_%H-%m-%S")"
 BUSR="urbackup"
 BGRP="urbackup"
-DEFA="2.1.8%20beta"
+DEFA="2.3.0%20beta"
 #DEFA="2.0.34"
 #=======================================
 echo "Using parameters :"
